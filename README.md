@@ -1,10 +1,10 @@
 # Projeto GP2
 
-## Para rodar o projeto
+## Para executar o projeto
 
-### Para fazer clone.
+### Para realizar o clone.
 
-`git clone https://github.com/INTEGRANTE01/GP2-TRABALHO.git`
+`git clone https://github.com/Thyeres01/GP2-TRABALHO.git`
 
 ### Para executar a aplicação via console (necessario Maven instalado)
 
